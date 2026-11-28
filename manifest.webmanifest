@@ -1,0 +1,9 @@
+{
+  "name": "Painel Solar",
+  "short_name": "Painel Solar",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#f3f3ef",
+  "theme_color": "#f3f3ef",
+  "icons": [{"src": "icone.png", "sizes": "512x512", "type": "image/png", "purpose": "any"}]
+}
